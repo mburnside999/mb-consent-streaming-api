@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/erasmuss22/streaming-api#readme",
   "dependencies": {
-    "jsforce": "^1.8.4"
+    "jsforce": "^1.11.1"
   }
 }
